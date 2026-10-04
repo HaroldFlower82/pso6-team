@@ -1,4 +1,8 @@
-Team members: HaroldFlower82 and B-USERNAME
+Team members: HaroldFlower82 and maxtung924
 Favorite programming language: LuaScript
+<<<<<<< HEAD
 Team motto: "Apes together strong!"
 
+=======
+Team motto: "This is a replica of Andy's room from Toy Story 2"
+>>>>>>> upstream/main
